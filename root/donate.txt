@@ -1,0 +1,3 @@
+Wiki.js (GitHub Sponsors): https://github.com/sponsors/NGPixel
+Wiki.js (Patreon): https://www.patreon.com/requarks
+Wiki.js (Open Collective): https://opencollective.com/wikijs
