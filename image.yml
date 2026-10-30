@@ -15,6 +15,13 @@ upstream:
   notes:
     type: github_release
     repo: Requarks/wiki-v2
+  sponsor:
+  - name: Wiki.js (GitHub Sponsors)
+    url: https://github.com/sponsors/NGPixel
+  - name: Wiki.js (Patreon)
+    url: https://www.patreon.com/requarks
+  - name: Wiki.js (Open Collective)
+    url: https://opencollective.com/wikijs
 
 release:
   branch: master
