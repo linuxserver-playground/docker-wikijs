@@ -732,8 +732,8 @@ get-value                                           2.0.6             npm
 getopts                                             2.2.5             npm                      
 getos                                               3.2.1             npm                      
 getpass                                             0.1.7             npm                      
-git                                                 2.54.0-r0         apk                      
-git-init-template                                   2.54.0-r0         apk                      
+git                                                 2.54.1-r0         apk                      
+git-init-template                                   2.54.1-r0         apk                      
 github-from-package                                 0.0.0             npm                      
 glob                                                13.0.6            npm                      
 glob                                                6.0.4             npm                      
